@@ -181,6 +181,41 @@ p {
   top: 2px;
 }
 
+.destaque {
+  font-size: 0.875em;
+  color: #807dfb;
+  max-width: 16em;
+}
+
+.citacao,
+.atributos {
+  padding: 30px;
+  border-radius: 5px;
+  box-shadow: 5px 5px 15px 0px rgba(44, 44, 44, 0.15);
+  background: linear-gradient(135deg, #8844ee, #807dfb);
+  align-self: start;
+}
+
+.citacao p {
+  font-size: 1.5em;
+  font-style: italic;
+  text-align: center;
+  color: white;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.atributos li {
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 1.125em;
+  padding: 15px;
+}
+
+.atributos li {
+  border-bottom: 2px solid #807dfb;
+}
+
 .anuncios {
   grid-area: anuncios;
   background: #fafbfc;
