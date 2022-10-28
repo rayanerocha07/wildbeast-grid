@@ -4,4 +4,4 @@
 
 <p align="center">🚀 Projeto final do curso de CSS Grid Layout da Origamid (https://www.origamid.com).</p>
 
-<p align="center">Disponível em: https://rayanerocha07.github.io/wildbeast-grid/</p>
+<p align="center">Disponível em: https://rayanerocha07.github.io/wildbeast-grid</p>
